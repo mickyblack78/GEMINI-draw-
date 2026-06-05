@@ -1,0 +1,23 @@
+manifest json
+
+
+{
+  "name": "AZRA'S PLAYGROUND",
+  "short_name": "AZZ'S PLACE",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "AZ.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "AZ.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
